@@ -1,1 +1,1 @@
-# Java Calculator with GUI
+# Java Calculator with GUI and MVC Model
